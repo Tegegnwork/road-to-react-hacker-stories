@@ -1,5 +1,6 @@
 {
-  "homepage": "https://tegegnwork.github.io/road-to-react-hacker-stories/",  "name": "road-to-react-hacker-stories",
+  "homepage": "https://tegegnwork.github.io/road-to-react-hacker-stories/", 
+  "name": "road-to-react-hacker-stories",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
