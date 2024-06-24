@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/road-to-react-hacker-stories/static/css/main.e6c13ad2.css",
+    "main.js": "/road-to-react-hacker-stories/static/js/main.0de55a03.js",
+    "static/js/453.ec2aeef8.chunk.js": "/road-to-react-hacker-stories/static/js/453.ec2aeef8.chunk.js",
+    "index.html": "/road-to-react-hacker-stories/index.html",
+    "main.e6c13ad2.css.map": "/road-to-react-hacker-stories/static/css/main.e6c13ad2.css.map",
+    "main.0de55a03.js.map": "/road-to-react-hacker-stories/static/js/main.0de55a03.js.map",
+    "453.ec2aeef8.chunk.js.map": "/road-to-react-hacker-stories/static/js/453.ec2aeef8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0de55a03.js"
+  ]
+}
