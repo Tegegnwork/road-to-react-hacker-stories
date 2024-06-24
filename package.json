@@ -1,5 +1,5 @@
 {
-  "name": "road-to-react-hacker-stories",
+  "homepage": "https://tegegnwork.github.io/road-to-react-hacker-stories/",  "name": "road-to-react-hacker-stories",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
