@@ -1,16 +1,20 @@
 
 import React from 'react';
 import TodoList from './TodoList.jsx';
+import AddTodoForm from './AddTodoForm.jsx';
 
 
  function App() {
   return(
     <div>
-              
-      <TodoList/>
+      <h1>To do list</h1>
+        
       
-       <list/>
-       
+        
+        <AddTodoForm/>
+        <hr/>
+         <TodoList/>
+               
     </div>
   
          );
